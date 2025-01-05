@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/ikozhuhar/sysadmin_skills/blob/main/img/sysadmin_preview.png">
+</p>
+
 ### :large_blue_diamond: Глава 1. Архитектура ОС Linux
 
 В Линукс два главных режима работы: kernel space и user space. Главное отличие в оежимах работы состоит в привилегиях доступа к аппаратных ресурсам. 
