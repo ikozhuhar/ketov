@@ -29,6 +29,13 @@
 
 Кроме указанных задач все менеджеры в совокупности предоставляют процессам средства межпроцессорного взаимодействия, такие как **сигналы**, **каналы**, **сокеты** и **разделяемая память**.
 
+![image](https://github.com/user-attachments/assets/d8cda107-d0c9-4377-93d7-7f70d5fd13a3)
+![image](https://github.com/user-attachments/assets/65ec448f-06e7-4233-a62c-4e3f927dbf5b)
+![image](https://github.com/user-attachments/assets/9ec41b9e-aef4-48fb-b026-068bc4871735)
+
+
+
+
 </details>
 
 
