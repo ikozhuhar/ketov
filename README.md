@@ -33,11 +33,11 @@
 
 **Аппаратный уровень** состоит из всех периферийных устройств, таких как оперативная память, жесткий диск, процессор и т.д.
 
+#### :diamond_shape_with_a_dot_inside: _Резюме_
+
 ![image](https://github.com/user-attachments/assets/d8cda107-d0c9-4377-93d7-7f70d5fd13a3)
 ![image](https://github.com/user-attachments/assets/65ec448f-06e7-4233-a62c-4e3f927dbf5b)
 ![image](https://github.com/user-attachments/assets/9ec41b9e-aef4-48fb-b026-068bc4871735)
-
-#### :diamond_shape_with_a_dot_inside: _Резюме_
 
 
 </details>
