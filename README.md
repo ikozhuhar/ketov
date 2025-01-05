@@ -51,6 +51,7 @@
 
 Узнать имя текущего терминала (а точнее, имя спец файла устройства) можно командой `tty`, а список всех терминальных входов пользователей - команды `users`, `who`, `w`.
 
+![image](https://github.com/user-attachments/assets/f2ee75e7-aa0e-4f72-98d2-193ef98d287b)
 ![image](https://github.com/user-attachments/assets/865566e4-7a8f-40fe-9126-f8bb68870b40)
 
 
