@@ -3,7 +3,7 @@
 </p>
 
 <details>
-   <p><summary>### :large_blue_diamond: Глава 1. Архитектура ОС Linux</summary></p>
+   <p><summary><b> :large_blue_diamond: Глава 1. Архитектура ОС Linux</b></summary></p>
 
    1. Red Hat Enterprise Linux
 
