@@ -2,6 +2,13 @@
 <img src="https://github.com/ikozhuhar/ketov/blob/main/img/ketov-linux.png">
 </p>
 
+<details>
+   <p><summary>### :large_blue_diamond: Глава 1. Архитектура ОС Linux</summary></p>
+
+   1. Red Hat Enterprise Linux
+
+</details>
+
 ### :large_blue_diamond: Глава 1. Архитектура ОС Linux
 
 В Линукс два главных режима работы: kernel space и user space. Главное отличие в оежимах работы состоит в привилегиях доступа к аппаратных ресурсам. 
