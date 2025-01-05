@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ikozhuhar/sysadmin_skills/blob/main/img/sysadmin_preview.png">
+<img src="https://github.com/ikozhuhar/ketov/blob/main/img/ketov-linux.png">
 </p>
 
 ### :large_blue_diamond: Глава 1. Архитектура ОС Linux
