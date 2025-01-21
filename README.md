@@ -139,5 +139,8 @@ ls -ai
 stat .profile
 ```
 
+![image](https://github.com/user-attachments/assets/a5c3408b-66fa-4788-9f6f-68464c78a501)
+
+
 
 </details>
