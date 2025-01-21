@@ -87,6 +87,9 @@
 finger ikozhuhar
 ```
 
+![image](https://github.com/user-attachments/assets/5cba7054-6762-47c1-8386-d48d57eec97b)
+
+
 <br/>
 
 ### Подсистема управления файлами и вводом-выводом
