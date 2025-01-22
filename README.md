@@ -250,5 +250,15 @@ lsof -p $$
 
 ![image](https://github.com/user-attachments/assets/12ab8a1f-f18c-405b-bea3-ca741dee8246)
 
+</details>
+
+
+
+
+
+<details>
+<p><summary><b> :large_blue_diamond: ГЛАВА 4. Управление процессами и памятью</b></summary></p>
+
+
 
 </details>
