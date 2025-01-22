@@ -66,8 +66,9 @@
 ![image](https://github.com/user-attachments/assets/65ec448f-06e7-4233-a62c-4e3f927dbf5b)
 ![image](https://github.com/user-attachments/assets/9ec41b9e-aef4-48fb-b026-068bc4871735)
 
-
 </details>
+
+
 
 
 
@@ -91,7 +92,10 @@ finger ikozhuhar
 
 </details>
 
-<br/>
+
+
+
+
 
 <details>
 <p><summary><b> :large_blue_diamond: Глава 3. Подсистема управления файлами и вводом-выводом</b></summary></p>
