@@ -444,6 +444,36 @@ mask::rwx
 other::---
 ```
 
+**Права по умолчанию**
+
+При создании новых файлов в каталогах с индивидуальными правами пользователей в списках доступа зачастую складывается ситуация, когда пользователи (имеющие доступ в каталоги) не получают нужных прав доступа к создаваемым файлам в этих каталогах. В большинстве случаев это противоречит здравому смыслу, т. к. все файлы некоторого каталога являются в определенном смысле «общими» для множества пользователей, которым разрешен доступ в сам каталог.
+
+В примере из листинга 3.46 в каталоге stash, куда пользователю jake предоставлен индивидуальный доступ при создании файла README, он в силу SCID для каталога передается группе candy. В группу candy пользователь jake не входит, в результате чего файл ему никак не будет доступен.
+
+**Проблема решается** назначением каталогу `stash` прав доступа «по умолчанию» (default), которые будут унаследованы файлами, создающимися в этом каталоге.
+
+```ruby
+finn@ubuntu:/srv/klngdom$ cd stash/
+flnn@ubuntu:/srv/kingdon$ umask 0007
+
+finn@ubuntu:/srv/ktngdom/stash$ touch README
+flnn@ubuntu:/srv/kingdom/stash$ Is -la README
+-rw-rw---- finn candy 0 нояб. 4 14:16 README
+
+flnn@ubuntu:/srv/kingdon/stash$ id jake
+Оuid=1002(jake) gid=1002(jake) группы=1002(jake)
+
+finn@ubuntu:/srv/kingdopi/stash$ setfacl -n d:u:jake:rw .
+
+finn@ubuntu:/srv/kingdoin/stash$ getfacl .
+# file: .
+default:user::rwx
+default:user:jake:rw-
+default:group::rwx
+default:mask::rwx
+default:other:: - - -
+```
+
 </details>
 
 
