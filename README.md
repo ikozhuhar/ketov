@@ -484,7 +484,7 @@ default:other:: - - -
 Устанавливать флаги файлов разрешено их владельцам, а установка отдельных флагов, например `а` или `i` , требует определенных привилегий процесса. Для просмотра флагов файлов предназначена утилита `lsattr(1)`, а для их изменения — утилита `chattr(1)`, что иллюстрирует на примере флага `i`.
 
 ```ruby
-flnn0ubuntu:/srv/klngdopi/stash$ Isattr
+flnn0ubuntu:/srv/klngdopi/stash$ lsattr
 ............. е- ./README.jake
 ............. е- ./README
 
@@ -493,10 +493,10 @@ chattr: Операция не позволяется while setting flags on READ
 
 flnn@ubuntu:/srv/klngdom/stash$ sudo chattr +i README.jake
 
-flnn@ubuntu:/srv/klngdoni/stash$ Isattr README.jake
+flnn@ubuntu:/srv/klngdoni/stash$ lsattr README.jake
 ---i---------e- README.jake
 flnn0ubuntu:/srv/klngdopi/stash$ date > README, jake
--bash: README.jake: Операция не позволяется1
+-bash: README.jake: Операция не позволяется
 ```
 
 
