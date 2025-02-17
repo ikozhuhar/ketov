@@ -401,6 +401,7 @@ finn@ubuntu:/srv/kingdom$ id
 uid=1001(finn) gid=1001(finn) rpynnbt=1001(flnn),1007(candy)
 finn@ubuntu:/srv/klngdan$ ls -la
 
+# Запрет на удаление чужих файлов в общей папке
 bubblegum@ubuntu:/srv/kingdom$ chmod +t .
 bubblegum@ubuntu:/srv/klngdom$ touch bananaguard1
 
