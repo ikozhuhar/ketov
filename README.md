@@ -457,7 +457,7 @@ finn@ubuntu:/srv/klngdom$ cd stash/
 flnn@ubuntu:/srv/kingdon$ umask 0007
 
 finn@ubuntu:/srv/ktngdom/stash$ touch README
-flnn@ubuntu:/srv/kingdom/stash$ Is -la README
+flnn@ubuntu:/srv/kingdom/stash$ ls -la README
 -rw-rw---- finn candy 0 нояб. 4 14:16 README
 
 flnn@ubuntu:/srv/kingdon/stash$ id jake
