@@ -182,7 +182,7 @@ ln myfile.txt hardlinktofile
 ```ruby
 # Для того чтобы создать мягкую ссылку
 ln -s source_file symbolic_link
-ln myfile.txt hardlinktofile
+ln -s myfile.txt hardlinktofile
 ```
 
 **Для создания ссылки на папку** команда такая же, только первым параметром указывается имя папки, а вторым — ссылка. Например, чтобы создать символическую ссылку из папки `/mnt/my_drive/movies` в папку `~/my_movies`, нужно ввести `ln -s /mnt/my_drive/movies ~/my_movies`.
